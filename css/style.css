@@ -68,6 +68,23 @@ nav.navbar-transparente {
     color: black;
 }
 
+/* Estrutura de conteudos */
+#servicos {
+    background: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#servicos h2, h3 {
+    color: #7c25f8;
+}
+
+.albuns {
+    padding: 10px 0px; 
+
+}
+
+
 /* Tipografia */
 h1 {
     font-weight: 900;
@@ -76,6 +93,17 @@ h1 {
     color: white;
 }
 
+h2 {
+    font-size: 3em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
+
+h3 {
+    font-size: 2em;
+    font-weight: 700;
+    letter-spacing: -0.04em;
+}
 
 
 /* Small devices (landscape phones, 576px and up) */
