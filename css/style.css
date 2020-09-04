@@ -69,6 +69,11 @@ nav.navbar-transparente {
     color: black;
 }
 
+.carousel-control-next, .carousel-control-prev {
+    /* border: 1px solid red; */
+    width: 5%;
+}
+
 /* Estrutura de conteudos */
 .caixa {
     padding-top: 20px;
